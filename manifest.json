@@ -1,0 +1,25 @@
+{
+	"name": "CandyBagStats",
+	"namespace": "SunderW",
+	"version_number": "0.1.0",
+	"description": "Replaces the candy bag with a new version that shows stat in a better way.",
+	"website_url": "https://github.com/sunderww/brotato-candybag-stats",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": ["SunderW"],
+			"tags": ["qle", "CandyBag"],
+
+			"compatible_mod_loader_version": ["6.2.0"],
+			"compatible_game_version": ["1.1.14.0"],
+			
+			"description_rich": "",
+			"optional_dependencies": [],
+			"load_before": [],
+			"incompatibilities": [],
+			"config_schema": {}
+		}
+
+	}
+}
