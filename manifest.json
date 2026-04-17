@@ -1,8 +1,8 @@
 {
 	"name": "CandyBagStats",
 	"namespace": "SunderW",
-	"version_number": "0.1.0",
-	"description": "Replaces the candy bag with a new version that shows stat in a better way.",
+	"version_number": "1.0.0",
+	"description": "The Candy Bag now tells you which stat was gained.",
 	"website_url": "https://github.com/sunderww/brotato-candybag-stats",
 	"dependencies": [],
 	"extra": {

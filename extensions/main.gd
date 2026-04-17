@@ -1,6 +1,9 @@
 extends "res://main.gd"
 
 
+const SunderWCBSConstants = preload("res://mods-unpacked/SunderW-CandyBagStats/constants.gd")
+
+
 func _ready():
 	sunderw_candy_bag_effect()
 

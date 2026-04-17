@@ -1,6 +1,9 @@
 extends "res://singletons/run_data.gd"
 
 
+const SunderWCBSConstants = preload("res://mods-unpacked/SunderW-CandyBagStats/constants.gd")
+
+
 func _ready():
 	init_tracked_items[Keys.item_candy_bag_hash] = {}
 

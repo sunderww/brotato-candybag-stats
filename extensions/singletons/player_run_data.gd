@@ -1,6 +1,9 @@
 extends "res://singletons/player_run_data.gd"
 
 
+const SunderWCBSConstants = preload("res://mods-unpacked/SunderW-CandyBagStats/constants.gd")
+
+
 static func init_effects() -> Dictionary:
 	var effects := .init_effects()
 	
